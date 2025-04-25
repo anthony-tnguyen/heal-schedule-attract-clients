@@ -1,7 +1,7 @@
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { 
-  MedicalKit, 
+  BriefcaseMedical, 
   Heart, 
   Bandage, 
   Thermometer 
@@ -11,7 +11,7 @@ const services = [
   {
     title: "Sports Rehabilitation",
     description: "Specialized treatment for sports-related injuries and performance enhancement.",
-    Icon: MedicalKit
+    Icon: BriefcaseMedical
   },
   {
     title: "Pain Management",
