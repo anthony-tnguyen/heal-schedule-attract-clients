@@ -1,12 +1,17 @@
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Medkit, Heart, Bandage, Thermometer } from "lucide-react";
+import { 
+  MedicalKit, 
+  Heart, 
+  Bandage, 
+  Thermometer 
+} from "lucide-react";
 
 const services = [
   {
     title: "Sports Rehabilitation",
     description: "Specialized treatment for sports-related injuries and performance enhancement.",
-    Icon: Medkit
+    Icon: MedicalKit
   },
   {
     title: "Pain Management",
