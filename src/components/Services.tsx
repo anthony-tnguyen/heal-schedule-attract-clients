@@ -1,27 +1,27 @@
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { medkit, heart, bandage, thermometer } from "lucide-react";
+import { Medkit, Heart, Bandage, Thermometer } from "lucide-react";
 
 const services = [
   {
     title: "Sports Rehabilitation",
     description: "Specialized treatment for sports-related injuries and performance enhancement.",
-    Icon: medkit
+    Icon: Medkit
   },
   {
     title: "Pain Management",
     description: "Expert techniques to alleviate chronic pain and improve mobility.",
-    Icon: heart
+    Icon: Heart
   },
   {
     title: "Post-Surgery Recovery",
     description: "Tailored rehabilitation programs for post-operative patients.",
-    Icon: bandage
+    Icon: Bandage
   },
   {
     title: "Preventive Care",
     description: "Programs designed to prevent injuries and maintain optimal health.",
-    Icon: thermometer
+    Icon: Thermometer
   }
 ];
 
