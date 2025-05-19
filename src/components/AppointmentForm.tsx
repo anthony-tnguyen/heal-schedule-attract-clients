@@ -19,7 +19,7 @@ export default function AppointmentForm() {
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">Book an Appointment</h2>
         <Card className="max-w-lg mx-auto">
           <CardHeader>
-            <CardTitle>Schedule Your Visit</CardTitle>
+            <CardTitle>Schedule Your Appointment</CardTitle>
           </CardHeader>
           <CardContent>
             <form className="space-y-6">
