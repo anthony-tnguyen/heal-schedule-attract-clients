@@ -8,27 +8,27 @@
     --background: 0 0% 100%;
     --foreground: 240 10% 3.9%;
 
-    --card: 252 95% 98%;
+    --card: 244 11% 93%;
     --card-foreground: 240 10% 3.9%;
 
     --popover: 0 0% 100%;
     --popover-foreground: 240 10% 3.9%;
 
-    --primary: 252 59% 74%;
+    --primary: 246 10% 49%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 216 100% 91%;
+    --secondary: 246 10% 89%;
     --secondary-foreground: 240 5.9% 10%;
 
-    --accent: 199 84% 57%;
+    --accent: 246 10% 54%;
     --accent-foreground: 0 0% 100%;
 
-    --muted: 252 33% 97%;
+    --muted: 246 10% 95%;
     --muted-foreground: 240 3.8% 46.1%;
 
     --border: 240 5.9% 90%;
     --input: 240 5.9% 90%;
-    --ring: 252 59% 74%;
+    --ring: 246 10% 49%;
 
     --radius: 0.5rem;
   }
@@ -45,9 +45,9 @@
 }
 
 .hero-pattern {
-  background-color: #f1f0fb;
-  background-image: radial-gradient(at 40% 20%, #72849e 0px, transparent 50%),
-    radial-gradient(at 0% 50%, #72849e 0px, transparent 50%),
-    radial-gradient(at 80% 50%, #4e466e 0px, transparent 50%);
+  background-color: #f0f0f5;
+  background-image: radial-gradient(at 40% 20%, #72708a 0px, transparent 50%),
+    radial-gradient(at 0% 50%, #72708a 0px, transparent 50%),
+    radial-gradient(at 80% 50%, #5d5b73 0px, transparent 50%);
 }
 
