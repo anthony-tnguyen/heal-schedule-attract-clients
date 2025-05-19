@@ -14,7 +14,7 @@ export default function AppointmentForm() {
   const [date, setDate] = useState<Date>();
 
   return (
-    <section className="py-20 px-4 bg-muted">
+    <section id="appointment-section" className="py-20 px-4 bg-muted">
       <div className="max-w-7xl mx-auto">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">Book an Appointment</h2>
         <Card className="max-w-lg mx-auto">
